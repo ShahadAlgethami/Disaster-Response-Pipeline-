@@ -2,7 +2,13 @@
 
 # Disaster Response Pipeline Project
 
-I apply data engneering skills to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages.
+## Installation
+This repository was written in HTML and Python , and requires the following Python packages: 
+ pandas, numpy, re, pickle, nltk, flask, json, plotly, sklearn, sqlalchemy, sys,  warnings.
+
+## Project Overview
+This code is designed to iniate a  web app which an emergency operators could exploit during a disaster (e.g. an earthquake or Tsunami), to classify a disaster text messages into several categories which then can be transmited to the responsible entity
+The app built to have an ML model to categorize every message received
 
 ### Instructions:
 
