@@ -10,7 +10,7 @@ This repository was written in HTML and Python , and requires the following Pyth
 This code is designed to iniate a  web app which an emergency operators could exploit during a disaster (e.g. an earthquake or Tsunami), to classify a disaster text messages into several categories which then can be transmited to the responsible entity
 The app built to have an ML model to categorize every message received
 
-### Instructions:
+## Instructions:
 
 1. Run the following commands in the project's root directory to set up your database and model.
     - To run ETL pipeline that cleans data and stores in database
@@ -21,7 +21,7 @@ The app built to have an ML model to categorize every message received
     `python app/run.py`
 3. Go to http://0.0.0.0:3001/
 
-### Files
+## Files
 
 1. ETL Pipeline Preparation.ipynb is a Description for workspace/data/process_data.py
 2. ML Pipeline Preparation.ipynb is a Description for workspace/model/train_classifier.py
