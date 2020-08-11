@@ -39,7 +39,7 @@ The app built to have an ML model to categorize every message received
    * Exports the final model as a pickle file
    
    ## 5. GitHub link:
-   - https://github.com/bin-wang-sh/DSND-Disaster-Response-Pipelines
+   - https://github.com/ShahadAlgethami/Disaster-Response-Pipeline-.git
 
 
 ## 6. Licensing, Authors, Acknowledgements
